@@ -1,8 +1,9 @@
 <h1 align="center">Добро пожаловать!)</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Frontend+%2B+Backend+Developer;React+%7C+FastAPI+%7C+MobX+%7C+TypeScript;Люблю+делать+мега+крутые+интерфейсы" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет+мир!;Я+React+%2B+FastAPI+разработчик;&center=true&width=500&height=50">
+</p>
+
 
 ---
 
@@ -22,7 +23,6 @@
 ### 🌍 Где меня найти:
 
 - Telegram: [@FaceNyra](https://t.me/FaceNyra)
-- GitHub: [github.com/FaceNyra](https://github.com/FaceNyra)
 
 ---
 
