@@ -10,7 +10,7 @@
 ### 🧰 Технологии и инструменты
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,py,aiogram,fastapi,postgres,scss,vite,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,py,fastapi,postgres,scss,vite,git,figma" />
 </p>
 
 ---
