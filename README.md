@@ -3,14 +3,14 @@
 ---
 
 ### 🧠 Обо мне
-- 💼 Fullstack разработчик (React, TypeScript, FastAPI)
-- 🌟 Делаю Mini app | Боты | Сайты | Скрипты
+-<i> 💼 Fullstack разработчик (React, TypeScript, FastAPI) </i>
+-<i> 🌟 Делаю Mini app | Боты | Сайты | Скрипты </i>
 ---
 
 ### 🧰 Технологии и инструменты
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,py,fastapi,postgres,scss,vite,git,figma,aiogram" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,py,aiogram,fastapi,postgres,scss,vite,git,figma" />
 </p>
 
 ---
